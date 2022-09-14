@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * add adds two integers amd returns the result
+ * add - adds two integers amd returns the result
  * @a: integer 1
  * @b: integer 2
  * Return: sum of a and b
