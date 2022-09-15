@@ -5,3 +5,4 @@
 4-print_most_numbers prints numbers 0-9, except 2,4
 5-more_numbers.c prints 10 times the numbers from 0 to 14
 6-print_line.c draws a straight line in the terminal
+7-print_diagonal.c draws a diagonal line on the terminal
