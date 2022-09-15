@@ -9,3 +9,4 @@
 8-print_square.c prints a square followed by a new line
 9-fizz_buzz.c prints numbers from 1 to 100 followed by a new line
 10-print_triangle.c prints a triangle, followed by a new line
+100-prime_factors.c prints the largest prime factor of the number 612852475143
