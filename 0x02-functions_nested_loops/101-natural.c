@@ -25,6 +25,6 @@ int main(void)
 		}
 	}
 	sum = sum3 + sum5;
-	printf("%1u\n", sum);
+	printf("%1unsigned int\n", sum);
 	return (0);
 }
